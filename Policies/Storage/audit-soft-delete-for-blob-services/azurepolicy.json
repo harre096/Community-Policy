@@ -22,7 +22,7 @@
                 "defaultValue": "AuditIfNotExists"
             },
             "retentionInDays": {
-                "type": "String",
+                "type": "Integer",
                 "metadata": {
                     "displayName": "Retention in Days",
                     "description": "How long should deleted resources be retained for."
